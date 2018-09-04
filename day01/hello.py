@@ -1,0 +1,5 @@
+print("hello,world")
+print("wohao")
+print("nihao")
+print("dajiahao")
+print("你好")
